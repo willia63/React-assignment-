@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-assignment-/static/css/main.e6c13ad2.css",
+    "main.js": "/React-assignment-/static/js/main.3323bb20.js",
+    "static/js/787.f6b2eaaf.chunk.js": "/React-assignment-/static/js/787.f6b2eaaf.chunk.js",
+    "static/media/movie2.jpg": "/React-assignment-/static/media/movie2.86d05bc00762721e8c2f.jpg",
+    "static/media/movie1.jpg": "/React-assignment-/static/media/movie1.92a32bfbf023157bd22d.jpg",
+    "static/media/movie0.jpg": "/React-assignment-/static/media/movie0.1b7df80f53955d07bd9d.jpg",
+    "static/media/movie4.jpg": "/React-assignment-/static/media/movie4.aed8b6b7af195dd31304.jpg",
+    "static/media/movie3.jpg": "/React-assignment-/static/media/movie3.a4a3e391689f9b383481.jpg",
+    "index.html": "/React-assignment-/index.html",
+    "main.e6c13ad2.css.map": "/React-assignment-/static/css/main.e6c13ad2.css.map",
+    "main.3323bb20.js.map": "/React-assignment-/static/js/main.3323bb20.js.map",
+    "787.f6b2eaaf.chunk.js.map": "/React-assignment-/static/js/787.f6b2eaaf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.3323bb20.js"
+  ]
+}
